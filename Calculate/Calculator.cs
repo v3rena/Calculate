@@ -22,6 +22,7 @@ namespace Calculate
 				case "m":
 					result = num1 * num2;
 					break;
+				//Divide!
 				case "d":
 					// Ask the user to enter a non-zero divisor
 					if (num2 != 0)
