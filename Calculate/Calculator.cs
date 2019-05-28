@@ -30,8 +30,6 @@ namespace Calculate
 					}
 					break;
 				// Return text for an incorrect option entry
-				default:
-					break;
 			}
 			return result;
 		}
