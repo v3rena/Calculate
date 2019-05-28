@@ -24,6 +24,7 @@ namespace Calculate
 					break;
 				case "d":
 					// Ask the user to enter a non-zero divisor
+					// Now divide!
 					if (num2 != 0)
 					{
 						result = num1 / num2;
