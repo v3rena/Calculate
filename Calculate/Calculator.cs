@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
+//comment
+
 namespace Calculate
 {
 	public class Calculator
