@@ -25,14 +25,11 @@ namespace Calculate
 					result = num1 * num2;
 					break;
 				case "d":
-					// Ask the user to enter a non-zero divisor
-					// Now divide!
 					if (num2 != 0)
 					{
 						result = num1 / num2;
 					}
 					break;
-				// Return text for an incorrect option entry
 			}
 			return result;
 		}
