@@ -36,3 +36,4 @@ For example:
 ## Merge
 
 Feature, bugfix and hotfix branches should be pushed to the server after every commit. Once the feature or fix is fully implemented, open a pull request to merge it into the dev branch should be created.
+
